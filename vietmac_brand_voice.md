@@ -211,3 +211,51 @@
     > Trong lúc thực hành vướng mắc phần âm thanh chỗ nào, cứ nhắn thẳng vào lớp, mình hỗ trợ nhé!
 
 ---
+
+### 1.11. Bối cảnh: Email tự động chào mừng học viên đăng ký thành công
+*   **Mục tiêu:** Gửi email định dạng HTML thân thiện để chào mừng học viên. Xác nhận thông tin, cấp quyền vào lớp Skool, hướng dẫn lộ trình học tập, và khẳng định sự hỗ trợ 1-1.
+*   **Nội dung mẫu:**
+    > <p>Chào <strong>{{1.name}}</strong> nhé! 👋</p>
+    > 
+    > <p>Hệ thống đã tự động kích hoạt tài khoản thành công rồi nhé. Cảm ơn bạn rất nhiều vì đã tin tưởng đồng hành cùng mình trong khóa học <strong>Tư Duy Làm Video Điện Thoại: Quay Là Cuốn</strong>.</p>
+    > 
+    > <p>Mình không muốn bạn phải chờ đợi lâu, nên mọi thứ từ Bài giảng cho đến Quà tặng thực hành Chrome AI mình đều đã sắp xếp gọn gàng trên cộng đồng Skool rồi.</p>
+    > 
+    > <h3 style="margin: 24px 0 12px;">🎯 HƯỚNG DẪN VÀO LỚP NGAY:</h3>
+    > <ol style="line-height: 2.2;">
+    >   <li>Bạn nhấp vào link dưới đây để yêu cầu vào lớp Skool:<br>
+    >   👉 <a href="https://www.skool.com/nguyenducviet-8640" style="color: #2980b9; font-weight: bold;">Vào lớp Skool tại đây</a></li>
+    >   <li><strong>⚠️ LƯU Ý QUAN TRỌNG:</strong> Khi Skool hiện ra câu hỏi xác nhận, bạn <strong>bắt buộc phải điền đúng Email này: {{1.email}}</strong>. Admin sẽ dựa vào đúng Email này để đối chiếu với biên lai ngân hàng và mở cửa lớp cho bạn ngay lập tức!</li>
+    > </ol>
+    > 
+    > <hr style="border: none; border-top: 2px solid #f0f0f0; margin: 24px 0;">
+    > 
+    > <h3 style="margin: 0 0 12px;">📚 LỘ TRÌNH HỌC TẬP (Lưu ý để không bị ngợp)</h3>
+    > <p>Để anh em vào học không bị ngợp, trong tài khoản Skool mình đã phân bổ sẵn 2 khóa học riêng biệt:</p>
+    > <ul style="line-height: 2.2; margin-bottom: 16px;">
+    >   <li>👉 <strong>Khóa 1 (Nền tảng CapCut):</strong> Nếu bạn chưa thạo app, cứ vào đây thực hành trước để cày đủ "giờ bay" và quen thao tác tay nhé.</li>
+    >   <li>👉 <strong>Khóa 2 (Cốt lõi thực chiến):</strong> Đây là nơi chứa tinh hoa — các kỹ thuật chuyển cảnh vật lý mượt mà, khuôn mẫu kịch bản và bộ công cụ AI tự động hóa.</li>
+    > </ul>
+    > 
+    > <p>Như mình có chia sẻ, Khóa 2 là một <strong>khóa học "sống"</strong>. Mình sẽ update liên tục các kỹ thuật mới. Mỗi lần có bản update, mình sẽ lên một bài viết thông báo ngay ngoài Trang chủ (Community) — bạn đăng nhập vào là thấy luôn, đồng thời video bài giảng mới sẽ được cập nhật thẳng vào trong Khóa 2.</p>
+    > 
+    > <hr style="border: none; border-top: 2px solid #f0f0f0; margin: 24px 0;">
+    > 
+    > <h3 style="margin: 0 0 12px;">🤝 Mình luôn ở đây hỗ trợ bạn (Zalo 1-1)</h3>
+    > <p>Đang học mà vướng mắc góc máy hay ánh sáng chỗ nào, cứ nhắn thẳng Zalo này, mình trực tiếp xem và hỗ trợ. Có gì cứ "ới" mình nhé! 👇.</p>
+    > 
+    > <ul style="line-height: 2.2; margin-bottom: 16px;">
+    >   <li><strong>Zalo của mình:</strong> 0934.688.632</li>
+    >   <li><strong>Messenger:</strong> <a href="https://facebook.com/nddviet" style="color: #2980b9; font-weight: bold;">facebook.com/nddviet</a></li>
+    > </ul>
+    >  
+    > <p style="font-style: italic; color: #555; text-align: center; font-size: 16px; margin: 24px 0;">
+    > "Quay phim đâu phải ngẫu nhiên<br>
+    > Tư duy đi trước, kiếm tiền mới nhanh!"
+    > </p>
+    > 
+    > <p>Chúc bạn sớm ra lò những video cực "cuốn" nhé! 🚀<br>
+    > <strong>Nguyễn Đức Việt</strong></p>
+    > 
+
+---
