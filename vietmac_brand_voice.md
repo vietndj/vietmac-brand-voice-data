@@ -259,3 +259,22 @@
     > 
 
 ---
+
+### 1.12. Bối cảnh: Tin nhắn hướng dẫn học viên lộ trình 4 khóa học (Zalo/Skool)
+*   **Mục tiêu:** Hướng dẫn tân binh phân bổ thời gian học 4 khóa học trên Skool sao cho hiệu quả, không bị ngợp. Đồng thời tạo sự gần gũi, mở lời hỗ trợ giao lưu trực tiếp.
+*   **Nội dung mẫu:**
+    > Chào em nhé! 👋
+    > 
+    > Anh đã kích hoạt đủ 4 khóa học về làm video trên tài khoản của em rồi. Để học hiệu quả và không bị ngợp, em đi theo lộ trình này nhé:
+    > 
+    > 👉 **Khóa AI:** Nếu em chưa quen dùng AI, hãy cày khóa này trước để biết cách lên và xử lý kịch bản cho thật tốt.
+    > 👉 **Khóa CapCut 1 (Nền tảng):** Nơi để em thực hành các thao tác, tích lũy đủ "giờ bay" cho việc quay và edit.
+    > 👉 **Khóa CapCut 2 (Thực chiến):** Bắt đầu đi sâu vào các kỹ thuật chuyển cảnh. Lưu ý, đây là khóa học "sống" được anh cập nhật hàng tuần. Mỗi lần có kỹ thuật mới, anh sẽ thông báo ngoài Trang chủ (Community) và update thẳng video bài giảng vào trong khóa.
+    > 
+    > Trong quá trình học vướng mắc chỗ nào, em cứ nhắn ở đây hoặc qua Zalo, anh giúp được gì sẽ hỗ trợ hết mình. 
+    > 
+    > Đặc biệt, nếu em ở Hà Nội và muốn gặp trực tiếp để trao đổi, cứ ới anh rồi qua trường FPT (92 Lương Yên hoặc Trịnh Văn Bô) anh em ngồi giao lưu nhé! ☕️
+    > 
+    > Chúc em sớm ra lò những video cực "cuốn"! 🚀
+
+---
