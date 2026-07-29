@@ -286,6 +286,7 @@
 | STT | Tên Bài Thơ / Chủ Đề | Thẻ (Tags) | Mục Đích & Thông Điệp Cốt Lõi |
 | :--- | :--- | :--- | :--- |
 | **#01** | *Bản Mã Hóa Sinh Tồn: Kỷ Nguyên Hack Thể Xác* | `#Biohacking` `#Tối_Ưu_Sức_Khỏe` `#Mindset` `#Tâm_Lý_Học` `#Cong_Nghe` | Đập tan tư duy y tế thụ động, coi cơ thể là cỗ máy N=1; dùng cold plunge, ngủ 6h thở mũi, creatine, mỡ bão hòa và "End Task" cảm xúc rác để tối ưu hiệu suất sinh tồn 180 tuổi. |
+| **#02** | *Cảnh Tỉnh Dưỡng Não & Bản Án Tích Lũy Từ Bữa Ăn Lỗi* | `#Sức_Khỏe_Thần_Kinh` `#Biohacking` `#Mindset` `#Dinh_Dưỡng` | Cảnh tỉnh tư duy chữa bệnh thụ động: Bệnh lý thần kinh không phải cú sốc một đêm mà là bản án tích lũy từ hàng vạn bữa ăn lỗi; dưỡng não phải làm từ trước chứ đừng chờ nhà sập mới mua xi măng. |
 
 ---
 
@@ -355,5 +356,21 @@
   > Cảm xúc ảo ảnh xót xa,  
   > Chỉ là dữ liệu nhạt nhòa game thôi.  
   > *(💡 Giải thích & Ẩn dụ: Tái thiết lập buồng ấp không gian và bảo toàn cảm xúc. Môi trường vật lý phải được cách ly khỏi sóng EMF, tối ưu hóa bằng ánh sáng quang phổ đỏ để kích hoạt Melatonin tự nhiên. Đồng thời, phải "dữ liệu hóa" rủi ro. Buồn bã, mệt mỏi hay cáu gắt không phản ánh nhân phẩm tồi tệ, đó thuần túy là Input Data báo lỗi hệ thống do sụt giảm glucose hoặc viêm nhiễm. Khách quan hóa thất bại, sửa phần cứng, mã nguồn tâm lý sẽ tự động chạy mượt mà.)*
+
+---
+
+#### 📌 Bài #02: Cảnh Tỉnh Dưỡng Não & Bản Án Tích Lũy Từ Bữa Ăn Lỗi
+* **Chủ đề (Tags):** `#Sức_Khỏe_Thần_Kinh` `#Biohacking` `#Mindset` `#Dinh_Dưỡng` `#Phòng_Bệnh`
+* **Mục đích / Thông điệp cốt lõi:** Cảnh tỉnh tư duy chữa bệnh thụ động. Suy giảm nhận thức hay bệnh lý thần kinh không xuất hiện ngẫu nhiên sau một đêm, mà là "bản án vật lý" tích tụ từ hàng vạn bữa ăn lỗi (dầu hạt, đường rác, vi chất bẩn). Cần dưỡng não và bảo trì phần cứng từ sớm, thay vì đợi "quên chìa khóa mới tìm thuốc tiên" hay "nhà sập mới đi mua xi măng".
+* **Đặc trưng vần điệu & Ngôn từ:** 
+  - Cặp thơ lục bát 6/8 hàm súc, cô đọng đi kèm chú giải bằng hình ảnh so sánh cực kỳ gắt (*nhà sập mới đi mua xi măng*, *bản án vật lý từ hàng vạn bữa ăn lỗi*).
+  - Giọng điệu cảnh tỉnh trực diện, giội gáo nước lạnh vào sự lười biếng và tư duy coi thường dinh dưỡng hàng ngày.
+
+* **Nội dung bài thơ gốc & Chú giải:**
+  > **[CẢNH TỈNH DƯỠNG NÃO & BẢN ÁN TÍCH LŨY TỪ BỮA ĂN LỖI]**
+  >
+  > U mê tìm kiếm linh đan  
+  > Đâu hay gốc rễ nát tàn từ lâu.  
+  > *(💡 Giải thích & Ẩn dụ: Đợi đến khi quên chìa khóa mới lo dưỡng não, cũng giống như đợi nhà sập mới đi mua xi măng. Bệnh lý thần kinh không phải cú sốc một đêm, nó là bản án vật lý được tích lũy từ hàng vạn bữa ăn lỗi.)*
 
 ---
