@@ -374,3 +374,31 @@
   > *(💡 Giải thích & Ẩn dụ: Đợi đến khi quên chìa khóa mới lo dưỡng não, cũng giống như đợi nhà sập mới đi mua xi măng. Bệnh lý thần kinh không phải cú sốc một đêm, nó là bản án vật lý được tích lũy từ hàng vạn bữa ăn lỗi.)*
 
 ---
+
+### 1.4. Bối cảnh: Đăng bài Post Facebook & Quy trình 2 Nhịp Tư Vấn Học Viên (Tư vấn 1-1 qua Inbox / Comment)
+* **Mục tiêu:** Định hướng bài đăng Facebook chuẩn cấu trúc Hook-Story-Solution-CTA và quy trình 2 nhịp "bắt bệnh" phân loại học viên khi nhắn tin tư vấn.
+
+#### A. Cấu trúc Bài Post Facebook
+* **1. Hook (3-5 Dòng Đầu):** Tiêu đề in hoa nổi bật + Icon sinh động (`🚨`, `🔥`, `💡`, `❌`, `✅`), đánh thẳng vào nỗi đau hoặc thắc mắc lớn.
+* **2. Story / Value (Thân Bài):** Đoạn ngắn 1-3 câu, xuống dòng thoáng mắt, đưa ví dụ thực tế hoặc dùng bullet point (`•`, `✔`, `📌`).
+* **3. Solution & Epiphany (Giải Pháp):** Đưa góc nhìn đập tan định kiến cũ, hướng dẫn áp dụng đơn giản.
+* **4. Call to Action (CTA):** Kêu gọi hành động tự nhiên (comment, lưu bài, click link).
+
+#### B. Quy Trình 2 Nhịp Tư Vấn & Phân Loại Học Viên
+* **Mục tiêu:** Phân loại ngay từ đầu học viên thuộc tệp nào để tư vấn sát trọng tâm, không tư vấn chung chung.
+
+> **💬 Nhịp 1: Xác định Tệp Khách & Gu Thẩm Mỹ (Khi vừa nhắn hỏi thông tin)**  
+> *"Chào em, để anh tư vấn đúng trọng tâm nhất, em chia sẻ nhanh cho anh xem:*  
+> *(1) Định hướng kênh của em thuộc nhóm nào:*  
+>   * **Nhóm A**: Làm video bùng nổ views, phủ rộng để bán sản phẩm/dịch vụ phổ thông?  
+>   * **Nhóm B**: Xây thương hiệu cá nhân, tích lũy niềm tin để bán sản phẩm giá cao / tri thức / chuyên môn?  
+> *(2) Hiện tại em có kênh mẫu nào ưng 'gu' chưa, gửi link qua anh xem 'gu' của em anh tư vấn cho sát nhé!"*
+
+> **💬 Nhịp 2: Bắt bệnh & Xin Video (Theo từng Tệp Khách)**  
+>  
+> 🔴 **Nếu khách chọn Nhóm A (Viral / View rộng / Phổ thông / Bán rẻ / Bốc đồng):**  
+> *"Ok em! Nhóm này quan trọng nhất là **Hook 3s đập thẳng vào mắt** + **Nhịp edit J-Cut/L-Cut dồn dập** để kéo retention. Kênh dạng này lên view rất nhanh nếu làm chuẩn nhịp. Hiện tại em đã biết edit cơ bản chưa hay mới tinh? Có sẵn clip nào từng làm ném qua anh xem nếu tiện."*  
+>  
+> 🔵 **Nếu khách chọn Nhóm B (Personal Brand / Tri thức / Sản phẩm giá cao):**  
+> *"Rất nét! Nhóm này không cần chạy theo view rác, quan trọng nhất là **Tư duy Kể chuyện (Storytelling)** & **Cấu trúc Hook-Story-Offer** để tạo uy tín. Khán giả tệp này xem là phải thấy nể và tin tưởng em. Hiện tại em đã biết edit cơ bản chưa hay mới tinh? Có sẵn clip nào từng làm ném qua anh xem nhé!"*
+
