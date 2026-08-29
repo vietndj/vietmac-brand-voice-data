@@ -402,3 +402,29 @@
 > 🔵 **Nếu khách chọn Nhóm B (Personal Brand / Tri thức / Sản phẩm giá cao):**  
 > *"Rất nét! Nhóm này không cần chạy theo view rác, quan trọng nhất là **Tư duy Kể chuyện (Storytelling)** & **Cấu trúc Hook-Story-Offer** để tạo uy tín. Khán giả tệp này xem là phải thấy nể và tin tưởng em. Hiện tại em đã biết edit cơ bản chưa hay mới tinh? Có sẵn clip nào từng làm ném qua anh xem nhé!"*
 
+---
+
+### 1.13. Bối cảnh: Bình luận ghim đầu video (Pinned Comment) - Lời mời đàm đạo & Tư vấn riêng tư 1-chạm (Trà Đạo & Hạ Ma Sát)
+* **Mục tiêu:** Tạo không gian an toàn tuyệt đối, xóa bỏ hoàn toàn rào cản phòng thủ marketing của người xem (không bắt gõ từ khóa "XAYKENH/INBOX", không phễu bot, không chèo kéo bán hàng). Điều hướng kết nối thẳng qua link Zalo cá nhân 1-chạm (`https://zalo.me/...`) cho những ai cần tư vấn riêng tư hoặc trao đổi sâu mà không tiện bình luận công khai giữa chốn mạng xã hội ồn ào.
+* **Đặc trưng bố cục & Ngôn từ:**
+  - Mở đầu bằng cặp thơ lục bát 6/8 thong dong, gãy gọn, sáng nghĩa (*"Cứ ngồi kéo ghế lại đây / Bên bàn trà đạo, bắt đầu từ đây."*).
+  - Băm nhịp thị giác (Visual Breathing Space) thành từng dòng ngắn độc lập, giảm tối đa áp lực đọc (Cognitive Friction) trên màn hình điện thoại.
+  - Đưa ra lý do chính đáng để chuyển sang Zalo: Cần tư vấn riêng tư, cần nói chuyện một tí cho thấu đáo mà không tiện bình luận công khai.
+  - Đoạn kết chân thành, quản trị kỳ vọng tinh tế (bận chưa rep ngay vì cần tĩnh lại chill một tí để trả lời suy nghĩ thật) kèm câu đùa duyên dáng, đời thường (*"Cứ nhắn mình, ngại gì vết bẩn nhờ 😄"*).
+* **Nội dung mẫu chuẩn:**
+  > "Cứ ngồi kéo ghế lại đây,  
+  > Bên bàn trà đạo, bắt đầu từ đây." 🍵
+  > 
+  > Có những việc cần tư vấn riêng tư, cần nói chuyện một tí mà bình luận công khai ở đây thì hơi bất tiện.
+  > 
+  > Lúc nào bạn thấy thoải mái, cứ nhắn riêng cho mình nhé:  
+  > 👉 Zalo cá nhân: https://zalo.me/0934688632
+  > 
+  > (Zalo cá nhân, không phải sale đâu nhé. 
+  > 
+  > Mình bận có thể chưa rep ngay, vì để trả lời bằng suy nghĩ thật thì cũng cần chill một tí mới chất lượng được. 
+  > 
+  > Nên bạn cứ thoải mái nhắn. Cứ nhắn mình, ngại gì vết bẩn nhờ 😄)
+
+---
+
