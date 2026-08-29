@@ -467,20 +467,21 @@ Tài liệu này xác lập bộ gen (DNA) viết kịch bản và sáng tạo n
 
 ### 2.3. Hai Kịch Bản Mẫu Mực Chuẩn Đạo Diễn (Gold Exemplars)
 
-#### 🎬 KỊCH BẢN MẪU 1: CĂN PHÒNG LẠ & NỤ CƯỜI MỞ LỜI (75 Giây)
+#### 🎬 KỊCH BẢN MẪU 1: CĂN PHÒNG LẠ & NỤ CƯỜI MỞ LỜI (11 Đoạn Master Hoàn Chỉnh - 75 Giây)
 * **Bối cảnh:** Bàn gỗ, ánh sáng tự nhiên, góc cây xanh và bình tưới nước.
-* **Nội dung chi tiết:**
-  > **Dòng 01:** Bạn thử nhớ lại xem: Lần gần nhất bạn bước chân vào một căn phòng có cả trăm người lạ, việc đầu tiên bạn làm là gì?  
-  > **Dòng 02:** Đa phần chúng ta sẽ chọn một góc khuất, ngồi xuống, cầm điện thoại lên và im lặng quan sát.  
-  > **Dòng 03:** Không phải vì mình khó gần, mà vì bản năng con người khi ở nơi xa lạ luôn có cảm giác ngượng ngùng: sợ bị phán xét, sợ nói sai, hoặc chỉ đơn giản là chưa thấy đủ an toàn để cất lời.  
-  > **Dòng 04:** Trên mạng xã hội cũng y hệt như vậy.  
-  > **Dòng 05:** Bản thân tôi cũng vậy: Khi bắt gặp một nội dung đúng với trăn trở của mình, tôi thường chỉ lặng lẽ xem hết và suy ngẫm. Bởi khi một vấn đề chạm đúng thực tế, phản xạ tự nhiên của chúng ta là giữ lại để tự tìm lời giải cho mình, chứ không phải vội vã gõ ra vài dòng bình luận công khai.  
-  > **Dòng 06:** Bình luận công khai trên mạng đôi khi cũng giống như việc bạn phải đứng dậy phát biểu trước một hội trường xa lạ. Khi chưa cảm nhận được một không gian đủ an toàn, ai trong chúng ta cũng sẽ chọn cách im lặng như một phản xạ tự nhiên.  
-  > **Dòng 07:** Một người trưởng thành thường không hưởng ứng những lời kêu gọi mang tính hình thức, nhưng việc chủ động nhắn tin riêng cũng tạo ra những ma sát tâm lý nhất định. Nếu bạn cũng là người đang làm video, bạn sẽ hiểu: khoảng cách đó không đến từ người xem, mà đến từ cách chúng ta thiết lập sự kết nối ban đầu.  
-  > **Dòng 08:** Mọi thứ sẽ mãi xa cách nếu người sáng tạo chỉ thích đứng trên cao để nói; nó chỉ thực sự chạm đến người xem khi bạn đóng vai một người chủ nhà biết bước xuống, kéo chiếc ghế và chân thành mở lời trước.  
-  > **Dòng 09:** Những gì tôi chia sẻ ở đây cũng chỉ là trải nghiệm riêng của một người đi dạy đang làm kênh, tôi không chắc nó có đúng thứ bạn đang cần hay không. Mọi thứ đang thay đổi quá nhanh, và chính những khó khăn thực tế bạn đang đối mặt mới là thứ có thật.  
+* **Nội dung chi tiết từng câu thoại & visual:**
+  > **Dòng 01 (00s – 03s):** Bạn thử nhớ lại xem... Lần gần nhất bạn bước chân vào một căn phòng có cả trăm người lạ... việc đầu tiên bạn làm là gì?  
+  > **Dòng 02 (03s – 07s):** Đa phần chúng ta sẽ chọn một góc khuất... ngồi xuống... cầm điện thoại lên... và im lặng quan sát...  
+  > **Dòng 03 (07s – 14s):** Không phải vì mình khó gần... mà vì bản năng con người khi ở nơi xa lạ luôn có cảm giác ngượng ngùng: sợ bị phán xét... sợ nói sai... hoặc chỉ đơn giản là chưa thấy đủ an toàn để cất lời...  
+  > **Dòng 04 (14s – 17s):** Trên mạng xã hội... cũng y hệt như vậy...  
+  > **Dòng 05 (17s – 27s):** Bản thân mình cũng thế... Khi mình gặp đúng cái thứ mình đang quan tâm ở hiện tại... phản xạ tự nhiên cũng là lắng lại một chút... để tự tìm lời giải... chứ không phải là bình luận công khai...  
+  > **Dòng 06 (27s – 36s):** Bình luận công khai... đôi khi cũng giống như việc mình phải đứng lên phát biểu ở một chỗ xa lạ... Mình cứ có cảm giác nó không thật, nó phải hơi gồng một tí... không biết tại sao lại thế... nhưng nó làm mất đi sự tự nhiên ban đầu... mà mình thì mình thích một cuộc nói chuyện chất lượng hơn...  
+  > **Dòng 07 (36s – 46s):** Bởi vì người ta sợ nhất là... khi mình đã chấp nhận mở lòng... nói ra đúng cái khó khăn của mình rồi, hở sườn rồi... mà lại nhận về sự thờ ơ... hay trả lời sáo rỗng... thì hụt hẫng lắm... thà nói chuyện với AI còn hơn... Người xem chỉ sẵn sàng nhắn tin... khi cảm nhận được là bạn thực sự muốn ngồi lại lắng nghe...  
+  > **Dòng 08 (46s – 54s):** Làm video mà cứ gồng lên làm chuyên gia... thì mãi mãi có khoảng cách... Cứ coi mình là người chủ nhà: bước xuống, kéo ghế, phủi bụi, rót trà... Chủ nhà thì phải hào sảng, phải chân thành chứ...  
+  > **Dòng 08.5 (54s – 63s):** "Ở ngoài đời... đón khách vào nhà thì chỗ ngồi phải tươm tất... nụ cười ánh mắt phải thật... là người ta mới thấy gần gũi để mở lời chứ... *(Chắp tay thể hiện sự chân thành)*. Còn qua cái màn hình điện thoại này... sự tôn trọng nằm ở một khung hình sạch sẽ, âm thanh rõ ràng... không giật gân màu mè... Chỉ khi thấy được sự chỉn chu và lòng chân thành của mình... thì người ta mới thấy an toàn để mở lời..."  
+  > **Dòng 09 (63s – 70s):** Đấy là cảm nhận của mình về quá trình làm video... mình vẫn đang quan sát, thấy được đến đâu thì mình chia sẻ đến đấy... mình cũng chỉ là ông giáo đang học một kỹ năng mới thôi, chưa chắc đã đúng...  
   > *(Visual: Dừng tay tỉ mẩn xịt nước cho cây, xoay người nhìn thẳng camera, cười tươi)*  
-  > **Dòng 10 (Chốt hạ):** **"Thế nên cứ nhắn đi! Xem vài video của mình là biết thừa tính mình rồi còn gì... Ngại gì vết bẩn!"** 😄  
+  > **Dòng 10 (70s – 75s - Chốt hạ):** **"Vậy nên nếu cần giúp gì từ mình thì cứ nhắn nhé... Bạn xem video của mình thì cũng biết thừa tính mình rồi còn gì... Ngại gì vết bẩn!"** 😄  
   > 
   > 📜 **Thơ Lục Bát đúc kết:**  
   > *"Phòng lạ người lặng bước vào,*  
@@ -493,3 +494,4 @@ Tài liệu này xác lập bộ gen (DNA) viết kịch bản và sáng tạo n
 #### 🎬 KỊCH BẢN MẪU 2: BẮT ĐẦU VỚI THỨ VỚ VẨN (Hành Động Phá Vỡ Trì Hoãn)
 * **Bối cảnh:** Bếp, pha ly trà Cozy, nấu mì ăn đêm hoặc tưới cây.
 * **Triết lý:** Không chờ kịch bản triệu đô, không chờ máy quay xịn. Xách tripod lên và băm nhỏ hành động tay chân mộc mạc nhất để giải phóng cơ thể trước ống kính.
+
