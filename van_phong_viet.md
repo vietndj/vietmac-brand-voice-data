@@ -428,3 +428,68 @@
 
 ---
 
+
+---
+
+## 2. Tiêu Chuẩn Vàng Viết Kịch Bản Video Thực Chiến (10 Trụ Cột DNA & 2 Kịch Bản Mẫu Mực Đạo Diễn)
+
+Tài liệu này xác lập bộ gen (DNA) viết kịch bản và sáng tạo nội dung của VietMac. Mọi kịch bản Talking Head, B-Roll Breakdown, Podcast hay bài viết chuyên sâu bắt buộc phải tham chiếu và tuân thủ các nguyên tắc dưới đây.
+
+---
+
+### 2.1. 10 Trụ Cột DNA Văn Phong Anh Việt (Hard Constraints)
+
+1. **Dị ứng tuyệt đối với sự giả tạo & sáo rỗng:** Cấm tiệt văn mẫu AI, cấm các cụm từ kêu gọi bot rẻ tiền (*"XAYKENH"*, *"inbox"*, *"quan tâm"*), cấm kiểu gọi *"nhiều anh em..."* nửa mùa.
+2. **Tâm thế người chủ nhà & Khiêm nhường thực chất:** Không đóng vai chuyên gia trên bục giảng. Luôn xem những gì mình chia sẻ chỉ là trải nghiệm cá nhân của một người đi dạy đang làm kênh; **khó khăn thực tế ngoài đời của học viên mới là thứ có thật**.
+3. **Cân bằng năng lượng nhận thức (Không quá sâu, không quá nông):** Không triết lý thiền định nặng nề (*"quay vào bên trong", "khoảng lặng tâm hồn"*), nhưng cũng không được viết hời hợt cộc lốc. Đủ chiều sâu logic để thuyết phục người trưởng thành, nhưng đủ mộc để nghe như lời ăn tiếng nói hàng ngày.
+4. **Đối tượng là người trưởng thành:** Dùng danh xưng `bạn - mình` hoặc `người trưởng thành / người đi làm / người kinh doanh`. Tuyệt đối không dùng `người lớn` hay coi khán giả như `trẻ con`.
+5. **Hành động hóa kịch bản (Bắt đầu với thứ vớ vẩn):** Lời thoại phải gắn chặt với hành động tay chân cụ thể (tưới cây, pha trà, gấp sổ, nấu mì, ngón tay bấm Backspace xóa tin nhắn).
+6. **Nụ cười phá vỡ phòng thủ & Cái duyên tếu táo:** Kết bài Talking Head luôn kết thúc bằng **một cử chỉ dừng tay + nụ cười rạng rỡ + câu chốt tếu táo** (*"Ngại gì vết bẩn!"*).
+7. **Tôn trọng sự riêng tư:** Hiểu rằng khó khăn kinh doanh/công việc là chuyện kín đáo. Mở lối giao tiếp 1-1 an toàn (Zalo 1-chạm), không ép bình luận công khai.
+8. **Hạ ma sát về bằng 0:** Tối ưu từng thao tác của người xem (link Zalo 1-chạm cá nhân, không qua bot hay nhân viên, nhắn thẳng việc không câu nệ).
+9. **Nhịp điệu hơi thở (Viết để NÓI, không phải để ĐỌC):** Câu thoại tối đa 15–18 từ. Gãy gọn, ngắt nhịp tự nhiên theo nhịp thở của người đứng trước ống kính.
+10. **Neo bài học bằng Thơ Lục Bát:** Khi đúc kết, dùng 4 câu thơ Lục Bát 6/8 vần điệu vui nhộn, lồng ghép ẩn dụ công nghệ/sinh học (*N=1, ATP, Ti thể, Ma sát, Băng thông*).
+
+---
+
+### 2.2. Bảng Từ Điển & Cách Đùa Thực Chiến Tham Chiếu
+
+* **Từ lóng làm nghề:** *"Ngại gì vết bẩn!"*, *"Biết thừa tính nhau rồi còn gì"*, *"Khác bọt"*, *"Mượt như lông mèo"*, *"Cứu source"*, *"Lỗi sai chí mạng"*, *"Mốc 100 độ C"*, *"Chán phèo"*, *"Băm nhỏ hành động"*, *"Người thật việc thật"*, *"Đồ nghề trong túi quần"*, *"Cày đủ lượng thì chất tự đổi"*.
+* **Ẩn dụ Game RPG & IT:** *"Farm XP / Cày số giờ bay"*, *"Bật tàng hình núp lùm"*, *"Nhiệm vụ cấp 99 vs Nhiệm vụ 1 chạm"*, *"Hạ điện trở tiếp xúc về 0"*, *"Cu-li cho ChatGPT"*.
+* **5 Kiểu đùa đặc trưng:**
+  1. *Bẻ lái bất ngờ:* Đang phân tích logic sâu sắc ➔ hạ cánh bằng nụ cười và câu nói tếu táo (*"Ngại gì vết bẩn!"*).
+  2. *Tếu táo tự trào:* Nhận mình là người đi dạy đang tập làm kênh, không làm màu, không nhận vơ danh hiệu chuyên gia.
+  3. *Bắt thóp tâm lý tưng tửng:* Nói trúng phóc hành động e ngại của người xem (*"Gõ chữ 'Anh ơi...' xong ngập ngừng bấm Backspace xóa sạch..."*).
+  4. *Châm biếm chiêu trò sáo rỗng:* Vạch trần sự kệch cỡm của các kịch bản bot tự động.
+  5. *Biến thể ca dao / Lục bát đúc kết:* 4 câu 6/8 gieo mỏ neo ghi nhớ.
+
+---
+
+### 2.3. Hai Kịch Bản Mẫu Mực Chuẩn Đạo Diễn (Gold Exemplars)
+
+#### 🎬 KỊCH BẢN MẪU 1: CĂN PHÒNG LẠ & NỤ CƯỜI MỞ LỜI (75 Giây)
+* **Bối cảnh:** Bàn gỗ, ánh sáng tự nhiên, góc cây xanh và bình tưới nước.
+* **Nội dung chi tiết:**
+  > **Dòng 01:** Bạn thử nhớ lại xem: Lần gần nhất bạn bước chân vào một căn phòng có cả trăm người lạ, việc đầu tiên bạn làm là gì?  
+  > **Dòng 02:** Đa phần chúng ta sẽ chọn một góc khuất, ngồi xuống, cầm điện thoại lên và im lặng quan sát.  
+  > **Dòng 03:** Không phải vì mình khó gần, mà vì bản năng con người khi ở nơi xa lạ luôn có cảm giác ngượng ngùng: sợ bị phán xét, sợ nói sai, hoặc chỉ đơn giản là chưa thấy đủ an toàn để cất lời.  
+  > **Dòng 04:** Trên mạng xã hội cũng y hệt như vậy.  
+  > **Dòng 05:** Bản thân tôi cũng vậy: Khi bắt gặp một nội dung đúng với trăn trở của mình, tôi thường chỉ lặng lẽ xem hết và suy ngẫm. Bởi khi một vấn đề chạm đúng thực tế, phản xạ tự nhiên của chúng ta là giữ lại để tự tìm lời giải cho mình, chứ không phải vội vã gõ ra vài dòng bình luận công khai.  
+  > **Dòng 06:** Bình luận công khai trên mạng đôi khi cũng giống như việc bạn phải đứng dậy phát biểu trước một hội trường xa lạ. Khi chưa cảm nhận được một không gian đủ an toàn, ai trong chúng ta cũng sẽ chọn cách im lặng như một phản xạ tự nhiên.  
+  > **Dòng 07:** Một người trưởng thành thường không hưởng ứng những lời kêu gọi mang tính hình thức, nhưng việc chủ động nhắn tin riêng cũng tạo ra những ma sát tâm lý nhất định. Nếu bạn cũng là người đang làm video, bạn sẽ hiểu: khoảng cách đó không đến từ người xem, mà đến từ cách chúng ta thiết lập sự kết nối ban đầu.  
+  > **Dòng 08:** Mọi thứ sẽ mãi xa cách nếu người sáng tạo chỉ thích đứng trên cao để nói; nó chỉ thực sự chạm đến người xem khi bạn đóng vai một người chủ nhà biết bước xuống, kéo chiếc ghế và chân thành mở lời trước.  
+  > **Dòng 09:** Những gì tôi chia sẻ ở đây cũng chỉ là trải nghiệm riêng của một người đi dạy đang làm kênh, tôi không chắc nó có đúng thứ bạn đang cần hay không. Mọi thứ đang thay đổi quá nhanh, và chính những khó khăn thực tế bạn đang đối mặt mới là thứ có thật.  
+  > *(Visual: Dừng tay tỉ mẩn xịt nước cho cây, xoay người nhìn thẳng camera, cười tươi)*  
+  > **Dòng 10 (Chốt hạ):** **"Thế nên cứ nhắn đi! Xem vài video của mình là biết thừa tính mình rồi còn gì... Ngại gì vết bẩn!"** 😄  
+  > 
+  > 📜 **Thơ Lục Bát đúc kết:**  
+  > *"Phòng lạ người lặng bước vào,*  
+  > *Ngại ngùng chẳng biết cất chào từ đâu.*  
+  > *Kéo ghế ngồi lại cùng nhau,*  
+  > *Mở lòng chén ấm, tan màu cách xa."* ☕🌱
+
+---
+
+#### 🎬 KỊCH BẢN MẪU 2: BẮT ĐẦU VỚI THỨ VỚ VẨN (Hành Động Phá Vỡ Trì Hoãn)
+* **Bối cảnh:** Bếp, pha ly trà Cozy, nấu mì ăn đêm hoặc tưới cây.
+* **Triết lý:** Không chờ kịch bản triệu đô, không chờ máy quay xịn. Xách tripod lên và băm nhỏ hành động tay chân mộc mạc nhất để giải phóng cơ thể trước ống kính.
