@@ -465,21 +465,30 @@ Tài liệu này xác lập bộ gen (DNA) viết kịch bản và sáng tạo n
 
 ### 2.3. Hai Kịch Bản Mẫu Mực Chuẩn Đạo Diễn (Gold Exemplars)
 
-#### 🎬 KỊCH BẢN MẪU 1: CĂN PHÒNG LẠ & NỤ CƯỜI MỞ LỜI (11 Đoạn Master Hoàn Chỉnh - 75 Giây)
+#### 🎬 KỊCH BẢN MẪU 1: CĂN PHÒNG LẠ & NỤ CƯỜI MỞ LỜI (10 Đoạn Master Hoàn Chỉnh - 85 Giây)
 * **Bối cảnh:** Bàn gỗ, ánh sáng tự nhiên, góc cây xanh và bình tưới nước.
 * **Nội dung chi tiết từng câu thoại & visual:**
-  > **Dòng 01 (00s – 03s):** Bạn thử nhớ lại xem... Lần gần nhất bạn bước chân vào một căn phòng có cả trăm người lạ... việc đầu tiên bạn làm là gì?  
-  > **Dòng 02 (03s – 07s):** Đa phần chúng ta sẽ chọn một góc khuất... ngồi xuống... cầm điện thoại lên... và im lặng quan sát...  
-  > **Dòng 03 (07s – 14s):** Không phải vì mình khó gần... mà vì bản năng con người khi ở nơi xa lạ luôn có cảm giác ngượng ngùng: sợ bị phán xét... sợ nói sai... hoặc chỉ đơn giản là chưa thấy đủ an toàn để cất lời...  
-  > **Dòng 04 (14s – 17s):** Trên mạng xã hội... cũng y hệt như vậy...  
-  > **Dòng 05 (17s – 27s):** Bản thân mình cũng thế... Khi mình gặp đúng cái thứ mình đang quan tâm ở hiện tại... phản xạ tự nhiên cũng là lắng lại một chút... để tự tìm lời giải... chứ không phải là bình luận công khai...  
-  > **Dòng 06 (27s – 36s):** Bình luận công khai... đôi khi cũng giống như việc mình phải đứng lên phát biểu ở một chỗ xa lạ... Mình cứ có cảm giác nó không thật, nó phải hơi gồng một tí... không biết tại sao lại thế... nhưng nó làm mất đi sự tự nhiên ban đầu... mà mình thì mình thích một cuộc nói chuyện chất lượng hơn...  
-  > **Dòng 07 (36s – 46s):** Bởi vì người ta sợ nhất là... khi mình đã chấp nhận mở lòng... nói ra đúng cái khó khăn của mình rồi, hở sườn rồi... mà lại nhận về sự thờ ơ... hay trả lời sáo rỗng... thì hụt hẫng lắm... thà nói chuyện với AI còn hơn... Người xem chỉ sẵn sàng nhắn tin... khi cảm nhận được là bạn thực sự muốn ngồi lại lắng nghe...  
-  > **Dòng 08 (46s – 54s):** Làm video mà cứ gồng lên làm chuyên gia... thì mãi mãi có khoảng cách... Cứ coi mình là người chủ nhà: bước xuống, kéo ghế, phủi bụi, rót trà... Chủ nhà thì phải hào sảng, phải chân thành chứ...  
-  > **Dòng 08.5 (54s – 63s):** "Ở ngoài đời... đón khách vào nhà thì chỗ ngồi phải tươm tất... nụ cười ánh mắt phải thật... là người ta mới thấy gần gũi để mở lời chứ... *(Chắp tay thể hiện sự chân thành)*. Còn qua cái màn hình điện thoại này... sự tôn trọng nằm ở một khung hình sạch sẽ, âm thanh rõ ràng... không giật gân màu mè... Chỉ khi thấy được sự chỉn chu và lòng chân thành của mình... thì người ta mới thấy an toàn để mở lời..."  
-  > **Dòng 09 (63s – 70s):** Đấy là cảm nhận của mình về quá trình làm video... mình vẫn đang quan sát, thấy được đến đâu thì mình chia sẻ đến đấy... mình cũng chỉ là ông giáo đang học một kỹ năng mới thôi, chưa chắc đã đúng...  
-  > *(Visual: Dừng tay tỉ mẩn xịt nước cho cây, xoay người nhìn thẳng camera, cười tươi)*  
-  > **Dòng 10 (70s – 75s - Chốt hạ):** **"Vậy nên nếu cần giúp gì từ mình thì cứ nhắn nhé... Bạn xem video của mình thì cũng biết thừa tính mình rồi còn gì... Ngại gì vết bẩn!"** 😄  
+  > **Dòng 01 (00s – 03s):** Bước vào một căn phòng lạ... việc đầu tiên bạn làm là gì?  
+  > *(Visual: Ngồi góc tối, ngón tay lướt chậm màn hình điện thoại trong im lặng - B-Roll ID: 129)*  
+  > **Dòng 02 (03s – 07s):** Mình sẽ chọn một góc này... rồi mình rút điện thoại ra lướt... và im lặng quan sát.  
+  > *(Visual: Cận góc nghiêng trầm ngâm, ánh sáng màn hình hắt lên mắt e dè quan sát - B-Roll ID: 130)*  
+  > **Dòng 03 (07s – 14s):** Không phải là vì mình chảnh~~~... mà là ở một nơi lạ... ai cũng cần một cái cảm giác thoải mái an toàn... trước khi mình nói chuyện với nhau.  
+  > *(Visual: Cận ngón tay gõ vài chữ "Anh ơi..." trong khung chat rồi bấm giữ Backspace xóa sạch - Shot Mới 01)*  
+  > **Dòng 04 (14s – 17s):** Thì ở trên mạng xã hội... nó cũng y như vậy thôi.  
+  > *(Visual: Góc rộng bàn làm việc tĩnh, ánh sáng tự nhiên dịu nhẹ, chiếc đồng hồ chạy chậm - B-Roll ID: 001)*  
+  > **Dòng 05 (17s – 28s):** Bản thân mình cũng thế... Khi mình gặp đúng cái thứ mình đang quan tâm ở hiện tại... phản xạ tự nhiên cũng là lắng lại một chút... để tự tìm lời giải... chứ không phải là bình luận công khai.  
+  > *(Visual: Ngồi gõ vài phím Macbook bên bàn gỗ, tay dừng lại trên trackpad, chống cằm suy ngẫm sâu - B-Roll ID: 022)*  
+  > **Dòng 06 (28s – 39s):** Bình luận công khai... giống như việc mình phải đứng lên phát biểu giữa một nơi xa lạ... Tự nhiên thấy nó hơi gồng... mất đi sự tự nhiên ban đầu... Mà mình thì thích một cuộc trò chuyện chất lượng... hơn là những lời xã giao.  
+  > *(Visual: Cảnh hội trường đông người nhìn lên bục phát biểu xa xôi - B-Roll ID: 125)*  
+  > **Dòng 07 (39s – 52s):** Bởi vì người ta sợ nhất là... khi mình đã chấp nhận mở lòng... nói ra đúng cái khó khăn của mình rồi, hở sườn rồi... mà lại nhận về sự thờ ơ... hay trả lời sáo rỗng... thì hụt hẫng lắm... thà nói chuyện với AI còn hơn! Người xem chỉ sẵn sàng nhắn tin... khi cảm nhận được là mình thực sự muốn nghe.  
+  > *(Visual: Cận mặt nói bộc bạch, cười tự trào ở đoạn AI, lia ánh mắt ấm áp nhìn thẳng máy quay - A-Roll MCU)*  
+  > **Dòng 08 (52s – 62s):** Làm video mà cứ gồng lên làm chuyên gia... thì mãi mãi có khoảng cách... Cứ coi mình là người chủ nhà: bước xuống... kéo chiếc ghế... phủi bụi... rót chén trà... Chủ nhà thì phải hào sảng... phải chân thành chứ!  
+  > *(Visual: Tay kéo nhẹ ghế gỗ mộc sang đối diện, phủi nhẹ mặt bàn, đặt ly trà nóng bốc khói - Shot Mới 02)*  
+  > **Dòng 08.5 (62s – 75s):** Ở ngoài đời... đón khách vào nhà thì chỗ ngồi phải tươm tất, nụ cười ánh mắt phải thật... là người ta mới thấy gần gũi để mở lời chứ... *(Hai tay chắp nhẹ trước ngực)*. Còn qua cái màn hình điện thoại này... sự tôn trọng nằm ở một khung hình sạch sẽ, âm thanh rõ ràng... không giật gân màu mè... Chỉ khi thấy được sự chỉn chu và lòng chân thành của mình... thì người ta mới thấy an toàn để mở lời...  
+  > *(Visual: Tay chắp trước ngực chân thành, sau đó lia sang bàn gỗ ngăn nắp - B-Roll ID: 001)*  
+  > **Dòng 09 - 10 (75s – 90s - Chốt hạ Climax):** Đấy là cảm nhận của mình về quá trình làm video... mình vẫn đang quan sát, thấy được đến đâu thì mình chia sẻ đến đấy... mình cũng chỉ là ông giáo đang học một kỹ năng mới thôi, chưa chắc đã đúng...  
+  > **"Vậy nên nếu cần giúp gì từ mình thì cứ nhắn nhé... Bạn xem video của mình thì cũng biết thừa tính mình rồi còn gì... Ngại gì vết bẩn!"** 😄  
+  > *(Visual: Vừa tỉa lá vừa chia sẻ khiêm nhường ➔ Dừng tay xịt nước, quay sang camera cười tươi rạng rỡ)*  
   > 
   > 📜 **Thơ Lục Bát đúc kết:**  
   > *"Phòng lạ người lặng bước vào,*  
