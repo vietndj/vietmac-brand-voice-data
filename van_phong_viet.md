@@ -411,20 +411,18 @@
   - Băm nhịp thị giác (Visual Breathing Space) thành từng dòng ngắn độc lập, giảm tối đa áp lực đọc (Cognitive Friction) trên màn hình điện thoại.
   - Đưa ra lý do chính đáng để chuyển sang Zalo: Cần tư vấn riêng tư, cần nói chuyện một tí cho thấu đáo mà không tiện bình luận công khai.
   - Đoạn kết chân thành, quản trị kỳ vọng tinh tế (bận chưa rep ngay vì cần tĩnh lại chill một tí để trả lời suy nghĩ thật) kèm câu đùa duyên dáng, đời thường (*"Cứ nhắn mình, ngại gì vết bẩn nhờ 😄"*).
-* **Nội dung mẫu chuẩn:**
-  > "Cứ ngồi kéo ghế lại đây,  
-  > Bên bàn trà đạo, bắt đầu từ đây." 🍵
+* **Nội dung mẫu chuẩn (Pinned Comment & Post Caption):**
+  > Xem clip có chỗ chưa thông,  
+  > Bạn ơi đừng ngại đám đông ngoài này.  
+  > Cứ nhắn cho mình vào đây,  
+  > Biết gì mình chỉ, làm ngay cho tròn. 🎬
   > 
   > Có những việc cần tư vấn riêng tư, cần nói chuyện một tí mà bình luận công khai ở đây thì hơi bất tiện.
   > 
   > Lúc nào bạn thấy thoải mái, cứ nhắn riêng cho mình nhé:  
   > 👉 Zalo cá nhân: https://zalo.me/0934688632
   > 
-  > (Zalo cá nhân, không phải sale đâu nhé. 
-  > 
-  > Mình bận có thể chưa rep ngay, vì để trả lời bằng suy nghĩ thật thì cũng cần chill một tí mới chất lượng được. 
-  > 
-  > Nên bạn cứ thoải mái nhắn. Cứ nhắn mình, ngại gì vết bẩn nhờ 😄)
+  > (Zalo cá nhân, không phải sale đâu nhé. Xem video là biết thừa tính mình rồi... Ngại gì vết bẩn nhờ 😄)
 
 ---
 
